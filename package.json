@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-500",
+  "displayName": "Tailwind 500",
+  "description": "Tailwind 500 color theme",
+  "version": "1.0.0",
+  "publisher": "JSDev",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tailwind-500",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tailwind-500-color-theme.json"
+      }
+    ]
+  }
+}
